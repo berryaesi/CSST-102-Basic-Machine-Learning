@@ -10,11 +10,11 @@ This is for the activities and projects.
 
 
 
-*   Machine Problem 1: Overview of Machine Learning Applications [Link](https://github.com/berryaesi/CSST-102-Basic-Machine-Learning/blob/88e5749ebbb14e51e618c9788a98904171838213/0830_Lab_Act1.ipynb)
+*   Machine Problem 1: Overview of Machine Learning Applications [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_MP1.ipynb)
 *   Machine Problem 2: Predicting House Prices with Multiple Regression [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B-TORRES-MP1.ipynb)
 
 ---
-*   Laboratory Exercise 1: Linear Regression Implementation [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B-TORRES-MP1.ipynb)
+*   Laboratory Exercise 1: Linear Regression Implementation [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER1.ipynb)
 
 
 ---
