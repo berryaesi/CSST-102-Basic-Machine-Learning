@@ -12,9 +12,11 @@ This is for the activities and projects.
 
 *   Machine Problem 1: Overview of Machine Learning Applications [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_MP1.ipynb)
 *   Machine Problem 2: Predicting House Prices with Multiple Regression [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B-TORRES-MP1.ipynb)
+*   Machine Problem 3:  K-Nearest Neighbors (KNN) Classifier on Breast Cancer Diagnosis Dataset [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_MP3.ipynb)
 
 ---
 *   Laboratory Exercise 1: Linear Regression Implementation [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER1.ipynb)
+*   Laboratory Exercise 2: K-Nearest Neighbors (KNN) and Logistic Regression [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER2.ipynb)
 
 
 ---
