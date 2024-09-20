@@ -16,7 +16,8 @@ This is for the activities and projects.
 
 ---
 *   Laboratory Exercise 1: Linear Regression Implementation [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER1.ipynb)
-*   Laboratory Exercise 2: K-Nearest Neighbors (KNN) and Logistic Regression [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER2.ipynb)
+*   Laboratory Exercise 2: Supervised Learning Techniques  [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER2.ipynb)
+*   Laboratory Exercise 3: Unspervised Learning Techniques  [Link](https://github.com/berryaesi/CSST102-3B/blob/main/3B_TORRES_EXER3.ipynb)
 
 
 ---
